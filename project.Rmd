@@ -1,0 +1,15 @@
+---
+title: "An analysis of average wages in the United States"
+author: "Lowell Monis, Adit Parmar, Atticus Gondoly, Claire Medema"
+date: 'May 2, 2025'
+output:
+  pdf_document:
+    df_print: paged
+    toc: true
+    toc_depth: 3
+---
+
+
+# References
+
+Economic Policy Institute, State of Working America Data Library, "Hourly wage, average - Average real hourly wage (2024$)," 2025.
