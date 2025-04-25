@@ -9,6 +9,25 @@ output:
     toc_depth: 3
 ---
 
+# Introduction
+
+## Motivation
+
+# Methods
+
+## Data
+
+## Analysis
+
+## Justification of Methods
+
+# Results and Discussion
+
+# Conclusion
+
+## Limitations
+
+## Implications and Impact
 
 # References
 
